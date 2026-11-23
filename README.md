@@ -31,44 +31,61 @@ I'm an IT professional and software developer passionate about building technolo
 - 🌐 Improving network infrastructure and connectivity.
 - 💻 Developing and improving web-based applications.
 - 📱 Exploring modern mobile application development.
-- 🔐 Learning advanced networking and system administration.
+- 🔐 Improving my skills in Cisco Networking and System Administration.
 - 🛠️ Building practical IT solutions to solve real-world challenges.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. ZAWA Water Services Management System
+### 💧 1. ZAWA Water Services Management System
 
-A digital water service management solution designed to simplify water connection requests and reporting of water-related problems.
+A water services management solution designed to simplify customer service requests and improve water service management.
 
 **📱 Mobile Application**
-- Allows users to submit new water connection requests.
-- Enables customers to report water leakage and other water-related problems.
-- Simplifies communication between customers and service providers.
+- Submit new water connection requests.
+- Report water leakage and other water-related problems.
+- Simplify communication between customers and service providers.
 
-**💻 Web-Based Management System**
-- Admin dashboard for managing customer requests.
-- Meter Reader module for meter-reading operations.
-- Supports monitoring and management of water service requests.
+**💻 Web Management System**
+- Web frontend for the water services system.
+- Backend for handling system operations and data.
+- Admin management and Meter Reader functionality.
 
-**Project Components:** Mobile Application | Web Administration System | Meter Reader System
+**Project Repositories:**
 
-### 2. Cloves Records Management System
+| Component | Repository |
+|---|---|
+| Mobile Application | [View Mobile](https://github.com/Mudrik9393/mobile) |
+| Web Frontend | [View Frontend](https://github.com/Mudrik9393/frontend) |
+| Backend | [View Backend](https://github.com/Mudrik9393/final) |
 
-A digital system developed to manage and maintain cloves-related records.
+---
 
-**Key Features:**
-- Digital management of cloves records.
-- Organized storage of information.
-- Easier access to and management of records.
-- Improved record-keeping and data management.
+### 🌿 2. Cloves Purchasing & Records Management System
 
-### 3. Healthcare IT Systems & Infrastructure
+A digital system developed for managing cloves purchasing information and related records.
+
+**Key Areas**
+- Digital cloves records management.
+- Organized information storage.
+- Improved access to records.
+- Backend data management.
+
+**Project Repositories:**
+
+| Component | Repository |
+|---|---|
+| Cloves System | [View Project](https://github.com/Mudrik9393/puchasingCloves) |
+| Backend | [View Backend](https://github.com/Mudrik9393/backend) |
+
+---
+
+### 🏥 3. Healthcare IT Systems & Infrastructure
 
 Supporting healthcare technology and IT infrastructure to improve hospital operations.
 
-**Key Areas:**
+**Key Areas**
 - Hospital Information Systems support.
 - Queue Management System (QMS).
 - SHAMS system support.
@@ -81,7 +98,7 @@ Supporting healthcare technology and IT infrastructure to improve hospital opera
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,postgres,mysql,git,github,vscode" alt="Technical Skills"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,postgres,mysql,git,github,vscode" alt="Languages and Tools"/>
 </p>
 
 **Other Technical Interests:**
